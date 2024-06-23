@@ -1,3 +1,5 @@
+# kalkulator pengeluaran harian
+# Program ini membantu pengguna mencatat dan menghitung total pengeluaran harian.
 
 def tambah_pengeluaran(pengeluaran, deskripsi, jumlah):
     pengeluaran.append({"deskripsi": deskripsi, "jumlah": jumlah})
