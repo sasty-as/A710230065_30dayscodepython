@@ -1,5 +1,3 @@
-#  Class dengan dua instance
-
 class LightSwitch:
     def __init__(self):
         self.switchIsOn = False
