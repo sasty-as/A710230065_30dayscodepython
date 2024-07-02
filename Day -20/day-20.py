@@ -1,4 +1,3 @@
-# Raise Exception Handler
 
 def divide_numbers(a, b):
     if b == 0:
