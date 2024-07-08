@@ -1,5 +1,3 @@
-# Implementasi prinsip SOLID untuk membuat sistem suatu perusahaan
-
 class Employee:
     def __init__(self, name, position, salary):
         self.name = name
