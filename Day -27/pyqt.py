@@ -1,5 +1,3 @@
-# Implementasi pembuatan kalkulator sederhana menggunakan PyQt
-
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QPushButton, QLineEdit, QVBoxLayout, QWidget
 
 class MainWindow(QMainWindow):
