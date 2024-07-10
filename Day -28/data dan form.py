@@ -1,5 +1,3 @@
-# data dan form
-
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QLabel, QLineEdit, QPushButton
 
 class MainWindow(QMainWindow):
